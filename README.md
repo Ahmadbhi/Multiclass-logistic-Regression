@@ -36,3 +36,60 @@ This project demonstrates:
 
 ## 📂 Repository Structure
 
+---
+
+## 🛠 Technologies Used
+- Python
+- Google Colab
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+
+---
+
+## 🧠 Concepts Covered
+- Binary vs Multiclass Logistic Regression  
+- Sigmoid vs Softmax  
+- One-vs-Rest (OvR) vs Multinomial  
+- Cross-entropy loss  
+- Model accuracy  
+- Confusion matrix  
+- Train/test split  
+
+---
+
+## ▶️ How to Run
+1. Open Google Colab  
+2. Upload the project notebook:  
+   `Multiclass_Logistic_Regression_ML.ipynb`  
+3. Install dependencies:
+
+
+4. Run all cells.
+
+---
+
+## 📈 Results
+- Model accuracy score  
+- Confusion matrix  
+- Class predictions  
+- Decision boundaries (if plotted)
+
+---
+
+## 🎯 Conclusion
+This project is a complete, beginner-friendly guide to understanding **Multiclass Logistic Regression**.  
+It is perfect for students and machine learning beginners who want to learn classification concepts.
+
+---
+
+## 🤝 Contributions
+Feel free to submit issues or improvements via pull requests.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+
